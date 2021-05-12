@@ -1,0 +1,3 @@
+In C language there is no such library like an STL (Standard Template Library) which is in C++ for storing data in Data Structure So I have designed a library in C for storing a data in Data Structure. This library contain data Structure like Queue, Stack, Priority Queue, Singly Linked List, Doubly Linked List, AVL Tree, Heap, Array, Pair. By which we can access data efficiently.
+This is generic data structure library it means you can store different type of data like char, int, float and so on.
+If you want to use it then you can see lots of examples in test case folder which has written by me for testing all data structure you can take reference from there.
